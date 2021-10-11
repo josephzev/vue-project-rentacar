@@ -1,0 +1,10 @@
+name: Locations
+form: $/joseph/vuerentacar/models/location/fields.yaml
+modelClass: Joseph\Vuerentacar\Models\Location
+defaultRedirect: joseph/vuerentacar/locations
+create:
+    redirect: 'joseph/vuerentacar/locations/update/:id'
+    redirectClose: joseph/vuerentacar/locations
+update:
+    redirect: joseph/vuerentacar/locations
+    redirectClose: joseph/vuerentacar/locations

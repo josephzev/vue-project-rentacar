@@ -1,0 +1,24 @@
+plugin:
+    name: 'joseph.vuerentacar::lang.plugin.name'
+    description: 'joseph.vuerentacar::lang.plugin.description'
+    author: Joseph
+    icon: oc-icon-car
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Vehicles
+        url: joseph/vuerentacar/vehicles
+        icon: icon-car
+        sideMenu:
+            side-menu-item:
+                label: Locations
+                url: joseph/vuerentacar/locations
+                icon: icon-home
+            side-menu-item2:
+                label: Dates
+                url: joseph/vuerentacar/dates
+                icon: icon-calendar
+            side-menu-item3:
+                label: Reservations
+                url: joseph/vuerentacar/reservations
+                icon: icon-ticket

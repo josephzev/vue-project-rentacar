@@ -1,0 +1,10 @@
+name: Reservations
+form: $/joseph/vuerentacar/models/reservation/fields.yaml
+modelClass: Joseph\Vuerentacar\Models\Reservation
+defaultRedirect: joseph/vuerentacar/reservations
+create:
+    redirect: 'joseph/vuerentacar/reservations/update/:id'
+    redirectClose: joseph/vuerentacar/reservations
+update:
+    redirect: joseph/vuerentacar/reservations
+    redirectClose: joseph/vuerentacar/reservations

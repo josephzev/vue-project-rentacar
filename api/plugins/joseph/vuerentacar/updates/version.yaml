@@ -1,0 +1,35 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table joseph_vuerentacar_'
+    - builder_table_create_joseph_vuerentacar_.php
+1.0.3:
+    - 'Created table joseph_vuerentacar_locations'
+    - builder_table_create_joseph_vuerentacar_locations.php
+1.0.4:
+    - 'Updated table joseph_vuerentacar_vehicles'
+    - builder_table_update_joseph_vuerentacar_vehicles.php
+1.0.5:
+    - 'Updated table joseph_vuerentacar_vehicles'
+    - builder_table_update_joseph_vuerentacar_vehicles_2.php
+1.0.6:
+    - 'Updated table joseph_vuerentacar_vehicles'
+    - builder_table_update_joseph_vuerentacar_vehicles_3.php
+1.0.7:
+    - 'Updated table joseph_vuerentacar_vehicles'
+    - builder_table_update_joseph_vuerentacar_vehicles_4.php
+1.0.8:
+    - 'Updated table joseph_vuerentacar_vehicles'
+    - builder_table_update_joseph_vuerentacar_vehicles_5.php
+1.0.9:
+    - 'Created table joseph_vuerentacar_dates'
+    - builder_table_create_joseph_vuerentacar_dates.php
+1.0.10:
+    - 'Created table joseph_vuerentacar_vehicles_dates'
+    - builder_table_create_joseph_vuerentacar_vehicles_dates.php
+1.0.11:
+    - 'Updated table joseph_vuerentacar_dates'
+    - builder_table_update_joseph_vuerentacar_dates.php
+1.0.12:
+    - 'Created table joseph_vuerentacar_reservations'
+    - builder_table_create_joseph_vuerentacar_reservations.php
